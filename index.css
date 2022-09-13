@@ -34,7 +34,7 @@
     box-shadow: 1px 13px 32px 5px black;
 }
 .imagediv:hover{
-    transition: 0.5 s;
+    transition: 0.5s;
     box-shadow: 1px 18px 45px 8px black;
 }
 #maindiv{
